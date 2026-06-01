@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "P03e 上市公司年报关键词分析"
+  subtitle: "通威股份 MD&A 文本分析与同行业比较"
+  author: "zhangcansim-sys"
+  date: today
+  repo-url: "https://github.com/zhangcansim-sys/P03e"
+  site-url: "https://zhangcansim-sys.github.io/P03e/"
+  chapters:
+    - index.qmd
+    - workflow.qmd
+    - analysis-results.qmd
+    - peer-comparison.qmd
+    - ai-usage.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+    code-fold: true
+    fig-align: center
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: auto

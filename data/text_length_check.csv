@@ -1,0 +1,4 @@
+﻿year,raw_chars,clean_chars,clean_chinese_chars,removed_page_lines,removed_table_lines,status,file
+2022,34921,28616,21908,52,163,正常,c:\Users\ZhuanZ1\Desktop\P03e\data\cleaned\600438_2022_mda_clean.txt
+2023,37030,30626,23503,60,169,正常,c:\Users\ZhuanZ1\Desktop\P03e\data\cleaned\600438_2023_mda_clean.txt
+2024,36863,30482,23448,60,166,正常,c:\Users\ZhuanZ1\Desktop\P03e\data\cleaned\600438_2024_mda_clean.txt
